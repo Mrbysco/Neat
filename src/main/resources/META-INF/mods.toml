@@ -1,12 +1,12 @@
 modLoader="javafml"
-loaderVersion="[25,)"
+loaderVersion="[38,)"
 issueTrackerURL="https://github.com/Vazkii/Neat"
 license="Creative Commons 3.0 BY-NC-SA"
 
 [[mods]]
 modId="neat"
 displayName="Neat"
-version="${version}"
+version="${file.jarVersion}"
 authors="Vazkii"
 description='''
 Minimalistic Functional Unit Plates for the modern Minecrafter
